@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spoteka-org/.github/main/profile/logo.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/spoteka/.github/main/profile/logo.png" width="120"/>
 </p>
 
 <h1 align="center">Spoteka Sénégal 🇸🇳</h1>
