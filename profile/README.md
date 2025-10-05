@@ -23,9 +23,9 @@ Notre mission :
 
 | Projet | Description | Tech Stack |
 |---------|--------------|------------|
-| [spoteka-mobile](https://github.com/spoteka-org/spoteka-mobile) | Application mobile Flutter (Android & iOS) | Flutter, Dart |
-| [spoteka-api](https://github.com/spoteka-org/spoteka-api) | API & backend | Supabase, Neon (PostgreSQL), Node.js |
-| [spoteka-admin](https://github.com/spoteka-org/spoteka-admin) | Tableau de bord d’administration | React, TailwindCSS |
+| [spoteka-mobile](https://github.com/spoteka/spoteka-mobile) | Application mobile Flutter (Android & iOS) | Flutter, Dart |
+| [spoteka-api](https://github.com/spoteka/spoteka-api) | API & backend | Supabase, Neon (PostgreSQL), Node.js |
+| [spoteka-admin](https://github.com/spoteka/spoteka-admin) | Tableau de bord d’administration | React, TailwindCSS |
 
 
 
