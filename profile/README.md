@@ -8,7 +8,7 @@
   <em>L’appli qui redonne vie à tes objets.</em>
 </p>
 
----
+
 
 ## 🌍 À propos
 
@@ -17,7 +17,7 @@
 Notre mission :  
 > Simplifier les échanges de biens entre particuliers, renforcer la confiance et digitaliser le marché de l’occasion au Sénégal.
 
----
+
 
 ## 🧩 Nos projets
 
@@ -27,7 +27,7 @@ Notre mission :
 | [spoteka-api](https://github.com/spoteka-org/spoteka-api) | API & backend | Supabase, Neon (PostgreSQL), Node.js |
 | [spoteka-admin](https://github.com/spoteka-org/spoteka-admin) | Tableau de bord d’administration | React, TailwindCSS |
 
----
+
 
 ## 👥 Équipe fondatrice
 
@@ -36,7 +36,7 @@ Notre mission :
 | 👩🏽‍💼 **CEO – Idrissa Abdou Maga Mounya** | Direction, stratégie, communication |
 | 👨🏾‍💻 **CTO – Ali Houssene Silahi** | Développement, architecture, technique |
 
----
+
 
 ## ⚙️ Stack technique
 
@@ -46,7 +46,7 @@ Notre mission :
 - **CI/CD :** GitHub Actions  
 - **Design :** Figma  
 - **Infra :** Railway / Render 
----
+
 
 ## 📫 Nous contacter
 
