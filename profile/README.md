@@ -24,6 +24,7 @@ Notre mission :
 | Projet | Description | Tech Stack |
 |---------|--------------|------------|
 | [spoteka-mobile](https://github.com/spoteka/spoteka-mobile) | Application mobile Flutter (Android & iOS) | Flutter, Dart |
+| [spoteka-design](https://github.com/spoteka/spoteka-design) | L’identité visuelle et le système de design officiels du projet **Spoteka Sénégal 🇸🇳** | **Material Design 3 (Material You)** de Google
 | [spoteka-api](https://github.com/spoteka/spoteka-api) | API & backend | Supabase, Neon (PostgreSQL), Node.js |
 | [spoteka-admin](https://github.com/spoteka/spoteka-admin) | Tableau de bord d’administration | React, TailwindCSS |
 
