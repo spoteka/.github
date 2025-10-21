@@ -76,7 +76,6 @@ Notre mission :
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-009688)
 ![Style](https://img.shields.io/badge/code%20style-black-000000.svg)
 
----
 
 ## 🎯 Objectifs
 
@@ -88,7 +87,6 @@ pour garantir un code :
 
 Elle s’applique à **tous les projets de Spoteka** : backend (FastAPI), frontend (mobile/web) et infrastructure.
 
----
 
 ## 🧱 Structure Git (Git Flow Spoteka)
 
@@ -118,7 +116,6 @@ release/<version>
 - `fix/messages-read-status`
 - `release/1.0.0`
 
----
 
 ## 🧩 Commits et messages
 
@@ -146,7 +143,6 @@ fix(auth): correct invalid refresh token logic
 docs(api): add swagger examples for listings endpoints
 ````
 
----
 
 ## 🔁 Pull Requests (PR)
 
@@ -166,7 +162,6 @@ docs(api): add swagger examples for listings endpoints
 [fix] Correct image upload validation
 ```
 
----
 
 ## 🧠 Conventions de code (Python / FastAPI)
 
@@ -200,7 +195,6 @@ def create_listing(listing: ListingCreate, db: Session = Depends(get_db)) -> Lis
     ...
 ```
 
----
 
 ## 📂 Structure du projet (Backend)
 
@@ -218,7 +212,6 @@ app/
  └── tests/         # pytest + factories
 ```
 
----
 
 ## 🔐 Sécurité
 
@@ -232,7 +225,6 @@ app/
 * **Idempotency-Key** pour POST sensibles
 * **Aucune donnée sensible dans les logs**
 
----
 
 ## 🧪 Tests & QA
 
@@ -244,7 +236,6 @@ app/
   * Lint ou tests échouent
   * Couverture < 80%
 
----
 
 ## 🚀 CI/CD (GitHub Actions)
 
@@ -261,7 +252,6 @@ app/
 * `main` et `develop` ne peuvent pas recevoir de push direct
   → merge uniquement via PR validée et tests réussis
 
----
 
 ## 🧱 Déploiement
 
@@ -271,7 +261,6 @@ app/
 | **Staging**    | `release/*` | Render staging | QA             |
 | **Dev**        | `develop`   | Docker local   | Tous devs      |
 
----
 
 ## 📦 Versioning
 
@@ -287,7 +276,6 @@ MAJOR.MINOR.PATCH
 | `1.1.0` | Nouvelle fonctionnalité |
 | `1.1.1` | Correctif sans rupture  |
 
----
 
 ## 🧾 Documentation
 
@@ -301,7 +289,6 @@ MAJOR.MINOR.PATCH
   * `CONTRIBUTING.md` → guide contributeur
   * `.env.example` → variables d’environnement
 
----
 
 ## 🔎 Code Review Checklist
 
@@ -314,7 +301,6 @@ MAJOR.MINOR.PATCH
 | 📘 Documentation | Docstring complète                           |
 | 🚀 Performance   | Pas de requêtes lourdes, pagination correcte |
 
----
 
 ## 🧩 Bonnes pratiques Spoteka
 
@@ -326,7 +312,6 @@ MAJOR.MINOR.PATCH
 * **Documentation vivante**
 * **Code Review systématique**
 
----
 
 ## 🧾 Validation avant merge
 
@@ -338,7 +323,6 @@ Avant toute fusion :
 4. ✅ Code conforme au style Spoteka
 5. ✅ Documentation mise à jour
 
----
 
 ## 📜 Clause finale
 
@@ -348,7 +332,6 @@ Avant toute fusion :
 > * respectant cette charte,
 > * et visant l’excellence technique.
 
----
 
 ### ✍️ Signé par :
 
@@ -357,7 +340,7 @@ Avant toute fusion :
 | **Ali Houssene Silahi**       | CTO / Responsable technique   | ___________________ |
 | **Idrissa Abdou Maga Mounya** | CEO / Responsable stratégique | ___________________ |
 
----
+
 
 **© Spoteka 2025 — Tous droits réservés.**
 *"Building the future of digital marketplaces in Africa."*
