@@ -76,9 +76,9 @@ Chaque rôle peut être élargi selon les besoins et la croissance du projet.
 ### 🔹 Sprints
 - **Durée d’un sprint :** 2 semaines  
 - **Structure :**
-  - *Sprint Planning* → lundi matin de la 1re semaine  
-  - *3 meetings par semaine* : lundi, mercredi, vendredi  
-  - *Sprint Review & Retrospective* → fin du 2e vendredi  
+  - *Sprint Planning* → Dimanche matin de la 1re semaine  
+  - *3 meetings par semaine* : lundi, mercredi, Samedi  
+  - *Sprint Review & Retrospective* → fin du 2e Samedi  
 
 ### 🔹 Tâches et outils
 | Outil | Usage |
